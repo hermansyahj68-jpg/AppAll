@@ -1,6 +1,6 @@
 {
-"name": "jumpBoom",
-"short_name": "boomLoncat",
+"name": "kumpulan aplikasi",
+"short_name": "AppAll",
 "start_url": "./index.html",
 "display": "standalone",
 "background_color": "#121212",
