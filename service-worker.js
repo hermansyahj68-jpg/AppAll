@@ -3,7 +3,7 @@ const CACHE_NAME = "jumpBoom-v1";
 const urlsToCache = [
   "./",
   "./index.html",
-  "./logo.png"
+  "./icon.png"
 ];
 
 self.addEventListener("install", function(event) {
