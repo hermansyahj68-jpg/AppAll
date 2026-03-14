@@ -1,9 +1,9 @@
-const CACHE_NAME = "jumpBoom-v1";
+const CACHE_NAME = "AppAll-v1";
 
 const urlsToCache = [
   "./",
   "./index.html",
-  "./icon.png"
+  "./icon.jpg"
 ];
 
 self.addEventListener("install", function(event) {
