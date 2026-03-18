@@ -2,7 +2,8 @@ const CACHE_NAME = "AppAll-v1";
 
 const urlsToCache = [
   "./index.html",
-  "./icon.jpg"
+  "./icon.jpg",
+  "./manifest.json"
   "./"
   
 ];
